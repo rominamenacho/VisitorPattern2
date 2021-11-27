@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\obj\Debug\VisitorPatter2Impuestos.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\obj\Debug\VisitorPatter2Impuestos.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\bin\Debug\VisitorPatter2Impuestos.exe.config
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\bin\Debug\VisitorPatter2Impuestos.exe
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\bin\Debug\VisitorPatter2Impuestos.pdb
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\obj\Debug\VisitorPatter2Impuestos.exe
+C:\Users\54926\source\repos\VisitorPatter2Impuestos\VisitorPatter2Impuestos\obj\Debug\VisitorPatter2Impuestos.pdb
